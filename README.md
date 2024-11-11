@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fwc0
 - 👀 I’m interested in anything which has to deal with the Cloud
-- 🌱 I’m currently presently learning Kubernetes and seeking to expand my knowledge in the cloud space further with other major tools and services.
-- 💞️ I’m looking to collaborate with different Cloud experts so we could share knowledge and make the world a better place
+- 🌱 I’m currently presently learning Kubernetes and sharing a brief oversight of what I have learnt and understood so far within the world of Kubernetes.
+- 💞️ I’m open to getting more input from other experts out there concerning Kubernetes and also open to getting corrections on updates about this intriguing service
 
 
 <!---
