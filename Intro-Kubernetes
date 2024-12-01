@@ -6,6 +6,6 @@ Kubernetes is an orchetration tool which is used to manage containers.
 ADVANTAGES OF KUBERNETES OVER OTHER CONTAINER ORCHESTRATION TOOLS
 
 It is widely used because it has the ability to self heal containers by the use of an API server.
-It is also able to scale containers based ont he amount of traffic which gets into the cluster.
+It is also able to scale containers based on the amount of traffic which gets into the cluster.
 It has an enterprise level which peermits firewalls to be created for enforced security, load balancers, and so on.
 On like other counterparts, it has the ability to create a master node (control Plane) to manage and control nodes within a cluster at easy in an automater manner.
