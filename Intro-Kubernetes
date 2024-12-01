@@ -1,6 +1,10 @@
+WHAT IS KUBERNETES
+
+Kubernetes is an orchetration tool which is used to manage containers. 
+
+
 ADVANTAGES OF KUBERNETES OVER OTHER CONTAINER ORCHESTRATION TOOLS
 
-Kubernetes is an orchetration tool which is used to manage containers.
 It is widely used because it has the ability to self heal containers by the use of an API server.
 It is also able to scale containers based ont he amount of traffic which gets into the cluster.
 It has an enterprise level which peermits firewalls to be created for enforced security, load balancers, and so on.
