@@ -1,0 +1,15 @@
+There are many tools which could be used to manage Kubernetes. These tools could be divvided into 2; Locally and the Enterprise level.
+
+LOCALLY:
+  a.  Minikube: Most commonly used by beingnner to start the learning process of K8.
+  b.  Kind: It is more advance as it could be used to build more resources (API, load balacers, just to name a few) in clusters built.
+
+ENTERPRISE:
+  a.  Kubernetes administration (kadm):
+      It is more focused on configuring kubernetes clusters and it entails a lot of manual intervention.
+      It also simplifies the initialization of the control plane, provides commands to add nodes to a cluster, and finally provides setting up for clusters one has full control over.
+      It is preferable to set-up in an environment where the users want to control everything. 
+  b.  Kubernetes Operations (kops):
+      It is similar to kadms but has an added advantage to it.
+      It is capable of buidling and managing the whole cluster.
+      It is available for use in a cloud nativce environment to provision clusters in an automated manner.
