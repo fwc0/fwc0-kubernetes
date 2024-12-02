@@ -7,10 +7,12 @@ API SERVER:
 It could be seen as the heart of the control plane. It grants access to the control nodes from enetities from outside the cluster.
 SCHEDULERr:
 It is used to maintain order within the cluster (nodes). It could be said to be a rule enforcer because the rules set within the API are put into play by the help of the scheduler. In other words, it pinpoints where commands are issued within the data plane.
+etcd:
+In short we could look at it as a data store which saves the complete set-up of the custer. If you are familiar with terraform, yoou could see etcd as the statefile.
 CONTROL MANAGER:
 It is used to direct certain instructions to designated nodes to ensure efficient funtioning of nodes within a cluster. An example being the replica setting, should in a case a node is about to die another pod is spinned up automatically. In short we could say it monitors the pods within a cluster. 
-etcd:
-In short we could look at it as a data store which saves the commands made within the control plane.
+CLOUD CONTROL MANAGER:
+It is an open source utility which could grant the developer the ability to run Kubernetes in various cloud providers.
 
 DATA PLANE/ NODE:
 
