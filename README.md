@@ -3,6 +3,8 @@
 - 🌱 I’m presently learning Kubernetes and sharing a brief oversight of what I have learnt and understood so far within the world of Kubernetes.
 - 💞️ I’m open to getting more input from other experts out there concerning Kubernetes and also open to getting corrections on updates about this intriguing service
 
+Resource where I learnt Kubernetes: 
+  - https://www.youtube.com/watch?v=JoHUi9KvnOA
 
 <!---
 fwc0/fwc0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
