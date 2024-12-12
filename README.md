@@ -6,7 +6,7 @@
 Resource where I learnt Kubernetes: 
   - https://www.youtube.com/watch?v=JoHUi9KvnOA
 
-  - This link shows a breif and explanatory deployment done in a few minutes. It gives you a broad view of what is expected in a real life scenerio and some use case codes: https://youtu.be/XltFOyGanYE
+  - This link shows a breif and explanatory deployment done in about 50 minutes. It gives you a broad view of what is expected in a real life scenerio and some use case codes: https://youtu.be/XltFOyGanYE
 <!---
 fwc0/fwc0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
